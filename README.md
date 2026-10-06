@@ -4,7 +4,7 @@ A USB-C 5V power board with ESD protection, resettable fuse, reverse-polarity pr
 
 A compact USB-C 5V power board designed in KiCad 10 with input protection, reverse-polarity protection, a protected 5V output, and regulated 3.3V output.
 
-![Final PCB 3D View](screenshots/01_Final_PCB_3D.png)
+
 
 ---
 
